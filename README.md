@@ -47,7 +47,7 @@ This project is a simple eCommerce application that allows users to view various
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ecommerce-project.git
+   git clone https://github.com/ghulamali17/ommart-ecommerce-website-template
    cd ecommerce-project
    ```
 
