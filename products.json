@@ -1,0 +1,166 @@
+[
+    {
+      "id": 1,
+      "productName": "Tank",
+      "image": "./images/tank.png",
+      "actualPrice": "$55",
+      "discountPrice": "$50",
+      "ratings": 5,
+      "reviews": 960,
+      "productUrl": "./single-products/tank.html"
+      
+    },
+    {
+        "id": 2,
+        "productName": "T Shirt",
+        "image": "./images/t shirt.png",
+        "actualPrice": "$60",
+        "discountPrice": "$40",
+        "ratings": 5,
+        "reviews": 960,
+        "productUrl": "./single-products/tshirts.html"
+      },
+      {
+        "id": 3,
+        "productName": "Polo Shirt",
+        "image": "./images/polo shirt.png",
+        "actualPrice": "$90",
+        "discountPrice": "$70",
+        "ratings": 5,
+        "reviews": 960,
+        "productUrl": "./single-products/polo shirt.html"
+      },
+      {
+        "id": 4,
+        "productName": "Bandana",
+        "image": "./images/bandana.png",
+        "actualPrice": "$150",
+        "discountPrice": "$139",
+        "ratings": 5,
+        "reviews": 960,
+        "productUrl": "./single-products/bandana.html"
+      },
+      {
+        "id": 5,
+        "productName": "Casual Shirt",
+        "image": "./images/casual.png",
+        "actualPrice": "$70",
+        "discountPrice": "$59",
+        "ratings": 5,
+        "reviews": 960,
+        "productUrl": "./single-products/casual.html"
+      },
+      {
+        "id": 6,
+        "productName": "Belt",
+        "image": "./images/belt.png",
+        "actualPrice": "$20",
+        "discountPrice": "$17",
+        "ratings": 5,
+        "reviews": 960,
+        "productUrl": "./single-products/belt.html"
+      },
+      {
+        "id": 7,
+        "productName": "Gym Tank-Top",
+        "image": "./images/m1.png",
+        "actualPrice": "$200",
+        "discountPrice": "$189",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/Gym Tank.html"
+      },
+      {
+        "id": 8,
+        "productName": "Beautiful Scarf",
+        "image": "./images/m2.png",
+        "actualPrice": "$40",
+        "discountPrice": "$29",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/scarf.html"
+      },
+      {
+        "id": 9,
+        "productName": "Fashion Polo Shirt",
+        "image": "./images/m3.png",
+        "actualPrice": "$100",
+        "discountPrice": "$89",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/Fashion Polo Shirt.html"
+      },
+      {
+        "id": 10,
+        "productName": "Fashion Polo Shirt",
+        "image": "./images/m4.png",
+        "actualPrice": "$60",
+        "discountPrice": "$49",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/Fashion Polo Shirt2.html"
+      },
+      {
+        "id": 11,
+        "productName": "Handsome Shirt",
+        "image": "./images/m5.png",
+        "actualPrice": "$200",
+        "discountPrice": "$189",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/Handsome Shirt.html"
+      },
+      {
+        "id": 12,
+        "productName": "Fashion Polo Shirt",
+        "image": "./images/m6.png",
+        "actualPrice": "$89",
+        "discountPrice": "$70",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/Fashion Polo Shirt3.html"
+      },
+      {
+        "id": 13,
+        "productName": "Shirt",
+        "image": "./images/m7.png",
+        "actualPrice": "$250",
+        "discountPrice": "$230",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/Blue Shirt.html"
+
+      },
+      {
+        "id": 14,
+        "productName": "Leather Belt",
+        "image": "./images/m8.png",
+        "actualPrice": "$150",
+        "discountPrice": "$129",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/Leather Belts.html"
+      },
+      {
+        "id": 15,
+        "productName": "Tank",
+        "image": "./images/tank.png",
+        "actualPrice": "$55",
+        "discountPrice": "$50",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/tank.html"
+      },
+      {
+        "id": 16,
+        "productName": "Red Shirt",
+        "image": "./images/polo.png",
+        "actualPrice": "$239",
+        "discountPrice": "$220",
+        "ratings": 5,
+        "reviews": 960,
+          "productUrl": "./single-products/Red Shirt.html"
+      }
+    
+  ]
+  
