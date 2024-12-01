@@ -1,4 +1,4 @@
-# eCommerce Product Display & Cart Functionality
+# Ommart Ecommerce Website Template 
 
 ## Project Description
 
