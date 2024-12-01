@@ -84,6 +84,10 @@ function addToCart(event) {
 document.addEventListener("DOMContentLoaded", () => {
   updateCartBadge();
   const cartTableBody = document.querySelector(".cartTable tbody");
+
+  if (!cartTableBody) {
+    return;
+  }
   const cart = JSON.parse(localStorage.getItem("cart")) || [];
   cartTableBody.innerHTML = "";
   cart.forEach((item, index) => {
