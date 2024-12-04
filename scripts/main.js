@@ -9,10 +9,17 @@ close.addEventListener("click", () => {
   nav.classList.remove("active");
 });
 
-// Function to update product count in add to cart badge
+// Function to update product count in add to cart badge and product track
 function updateCartBadge() {
   const cart = JSON.parse(localStorage.getItem("cart")) || [];
   const cartBadges = document.querySelectorAll(".cart-badge");
+  const producttrack = document.querySelector(".cart-heading");
+  if (producttrack) {
+    producttrack.innerText =
+      cart.length === 0
+        ? "Cart is empty"
+        : `${cart.length} ${cart.length === 1 ? "Item" : "Items"} in cart`;
+  }
   cartBadges.forEach((badge) => {
     badge.textContent = cart.length;
   });
